@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:07/05/2024
+## Register Number:212223110023
+## Name:KISHORE NARAYANAN S R
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
