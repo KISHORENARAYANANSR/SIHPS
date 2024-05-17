@@ -20,7 +20,7 @@ The webpage can be used to report sightings of harmfull waste lying in public, w
 
 ## Use Cases
 ![0002](https://github.com/KISHORENARAYANANSR/SIHPS/assets/148202102/6094519f-218f-4627-9997-91abf1174586)
-
+  
 
 
 ## Technology Stack
